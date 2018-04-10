@@ -1,0 +1,70 @@
+/* 
+    Created on : 11 Jul, 2017, 3:20:42 PM
+    Author     : Dalai
+*/
+.button{
+    -fx-background-color: transparent;
+}
+#openFile{
+    -fx-background-image: url("../images/if_ThePiratebay_19618.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-background-color: transparent;
+}
+#playButton{
+    -fx-background-image: url("../images/play.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-background-color: transparent;
+}
+#pauseButton{
+    -fx-background-image: url("../images/pause.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-background-color: transparent;
+}
+#stopButton{
+    -fx-background-image: url("../images/stop.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-background-color: transparent;
+}
+#slowerButton{
+    -fx-background-image: url("../images/previous.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-background-color: transparent;
+}
+#slowButton{
+    -fx-background-image: url("../images/rewind.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-background-color: transparent;
+}
+#fastButton{
+    -fx-background-image: url("../images/fastForward.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-background-color: transparent;
+}
+#fasterButton{
+    -fx-background-image: url("../images/skip.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-background-color: transparent;
+}
+#exitButton{
+    -fx-background-image: url("../images/exit.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-background-color: transparent;
+}
